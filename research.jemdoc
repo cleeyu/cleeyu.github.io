@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+My research interests include algorithm design and analysis, high dimensional statistics, inference over networks, sequential decision making under uncertainty, and online learning. In particular, many of my ongoing research projects are motivated by the following collection of research questions.
+- Reinforcement learning algorithms still lag behind carefully designed heuristics for real-world systems where we do not have access to infinite data. How can we design reinforcement learning algorithms that efficiently exploit known structure that arise in real-world systems? What are even the appropriate types of structure that are common to real-world systems yet lead to efficient and practical algorithms?
+- Matrix and tensor estimation algorithms have been widely used as part of the data preprocessing pipeline for handling high dimensional noisy and partially observed datasets. However all existing theoretical guarantees require strict conditions on the data generating process which are violated when the data is collected adaptively, which could introduce complex dependences and intentional non-uniformity to the sampling process. Can we develop optimal theory and algorithms for utilizing low rank models in sequential decision making scenarios? 
+- The use of machine learning to design optimal policies for societal systems is in reality multi-objective, as we need to be conscientious of the computational resources consumed and ethical considerations of bias and fairness, in addition to the standard metrics of performance. Can we develop a fundamental theory for understanding optimal multi-objective tradeoffs in sequential decision making? Do there exist efficient algorithms that can aid a human decision maker to achieve any desired tradeoff along the Pareto frontier?
+- The majority of causal inference tools are built upon a naive assumption that applying a treatment to an individual does not affect others' outcomes. However, this is clearly violated in scenarios where the treatment as well as the outcome are mediated by a network, e.g. public health campaigns, social media patforms, and epidemic modeling. Can we develop new theory and techniques for causal inference that strike a balance between efficient algorithms and flexible models?
+
+If any of these peak your interests, I would love to connect!
+
+== Selected Recent Papers
+
+- Tyler Sam, Yudong Chen, and Christina Lee Yu. [LowRankRL.pdf ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] Preprint. 
+
+- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2105.05308 ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.''] /ACM SIGMETRICS/, 2022. 
+
+- Christina Lee Yu, Edo Airoldi, Christian Borgs, and Jennifer Chayes. [Network_Causal_Inference_full.pdf ``Graph Agnostic Randomized Experimental Design under Heterogeneous Linear Network Interference.''] Preprint.
+
+- Sean R. Sinclair, Tianyu Wang, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2007.00717 ``Adaptive Discretization for Model-Based Reinforcement Learning.''] /Advances in Neural Information Processing Systems/, 2020. 
+
+- Sean Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/1910.08151 "Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces."] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2019. Also presented at /ACM SIGMETRICS/ 2020.
+
+- Devavrat Shah and Christina Lee Yu. [https://arxiv.org/abs/1908.01241 ``Robust Max Entrywise Error Bounds for Sparse Tensor Estimation via Similarity Based Collaborative Filtering'']. Preprint.
+
+- Christina Lee Yu. [https://arxiv.org/abs/2007.00736 ``Tensor Estimation with Nearly Linear Samples Given Weak Side Information.''] /ACM SIGMETRICS/, 2022.
+
+
+== Publications and Preprints by Topic
+
+(If prefaced by * then authors are ordered alphabetically) 
+
+*Fairness*
+
+- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2105.05308 ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.''] /ACM SIGMETRICS/, 2022. Journal paper under submission.
+
+- Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://aiforgood2020.github.io/papers/AI4SG_paper_37.pdf ``Sequential Fair Allocation of Limited Resources under Stochastic Demands.''] /Harvard CRCS AI for Social Good/ and /Mechanism Design for Social Good/, 2020.
+
+* Reinforcement Learning and Bandits*
+
+- Tyler Sam, Yudong Chen, and Christina Lee Yu. [LowRankRL.pdf ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] Preprint.
+
+- *Christopher Archer, Siddhartha Banerjee, Mayleen Cortez, Carrie Rucker, Sean R. Sinclair, Max Solberg, Qiaomin Xie, and Christina Lee Yu. [https://ngast.github.io/rlnq/pdfs/RLNQ_2021_ORsuite.pdf ``ORSuite: Benchmarking Suite for Sequential Operations Models.''] /Reinforcement Learning Networks and Queues SIGMETRICS workshop/, 2021.
+
+- Sean R. Sinclair, Tianyu Wang, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2007.00717 ``Adaptive Discretization for Model-Based Reinforcement Learning.''] /Advances in Neural Information Processing Systems/, 2020. 
+
+- Sean Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/1910.08151 "Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces."] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2019. Also presented at /ACM SIGMETRICS/ 2020.
+
+- *Nirandika Wanigasekara and Christina Lee Yu. [https://arxiv.org/abs/1908.01228 "Nonparametric Contextual Bandits in an Unknown Metric Space."] /Advances in Neural Information Processing Systems/, 2019.
+
+*High Dimensional Statistics*
+
+- Christina Lee Yu. [http://arxiv.org/abs/2110.13969 ``Nonparametric Matric Estimation with One-Sided Covariates.''] Preprint.
+
+- Devavrat Shah and Christina Lee Yu. [https://arxiv.org/abs/1908.01241 ``Robust Max Entrywise Error Bounds for Sparse Tensor Estimation via Similarity Based Collaborative Filtering'']. Preprint.
+
+- Christina Lee Yu. [https://arxiv.org/abs/2007.00736 ``Tensor Estimation with Nearly Linear Samples Given Weak Side Information.''] /ACM SIGMETRICS/, 2022.
+
+- *Christian Borgs, Jennifer Chayes, Devavrat Shah, and Christina Lee Yu. [https://arxiv.org/abs/1712.00710 ``Iterative Collaborative Filtering for Sparse Matrix Estimation.''] /Operations Research/, 2021.
+
+- *Yihua Li, Devavrat Shah, Dogyoon Song, Christina Lee Yu. [https://arxiv.org/abs/1705.04867 "Nearest Neighbors for Matrix Estimation Interpreted as Blind Regression for Latent Variable Model."] /IEEE Transactions on Information Theory/, 2019.
+
+ - *Devavrat Shah and Christina Lee Yu. [https://ieeexplore.ieee.org/abstract/document/8919933 "Iterative Collaborative Filtering for Sparse Noisy Tensor Estimation."] /Proceedings of Allerton Conference on Communication, Control, and Computing/, 2019. Also presented at /International Symposium on Information Theory/, 2019.
+
+ - *Devavrat Shah and Christina Lee Yu. [http://arxiv.org/abs/1703.08085 "Reducing Crowdsourcing to Graphon Estimation, Statistically."] /International Conference on Artificial Intelligence and Statistics/, 2018.
+
+- *Christian Borgs, Jennifer Chayes, Christina E. Lee and Devavrat Shah. [http://papers.nips.cc/paper/7057-thy-friend-is-my-friend-iterative-collaborative-filtering-for-sparse-matrix-estimation "Thy Friend is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation."] /Advances in Neural Information Processing Systems/, 2017. [https://youtu.be/yFaNMUPHB48 Short Video.] [http://www.mit.edu/~celee/IterativeCollaborativeFilteringPoster.pdf Poster.]
+
+- *Christina E. Lee, Yihua Li, Devavrat Shah, Dogyoon Song. [https://papers.nips.cc/paper/6108-blind-regression-nonparametric-regression-for-latent-variable-models-via-collaborative-filtering "Blind Regression: Nonparametric Regression for Latent Variable Models via Collaborative Filtering."] /Advances in Neural Information Processing Systems/, 2016. [https://youtu.be/Hfk2z6UQ2aI Short Video.]
+
+*Efficient Local Computation for Large Scale Graphs and Matrices*
+
+- *Asuman Ozdaglar, Devavrat Shah, and Christina Lee Yu. [http://arxiv.org/abs/1411.2647 "Asynchronous Approximation of a Single Component of the Solution to a Linear System."] /IEEE Transactions on Network Science and Engineering/, 2019.
+
+- *Christina E. Lee, Asuman Ozdaglar, and Devavrat Shah. [LocalStationaryDistribution.pdf "Computing the Stationary Distribution Locally."] /Advances in Neural Information Processing Systems/, 2013. [http://arxiv.org/abs/1312.1986 Full version with supplement].
+
+*Miscellaneous*
+
+- Christina Lee Yu, Edo Airoldi, Christian Borgs, and Jennifer Chayes. [Network_Causal_Inference_full.pdf "Graph Agnostic Randomized Experimental Design under Heterogeneous Linear Network Interference".] Preprint.
+
+- Elizabeth Bodine-Baron, Christina Lee, Anthony Chong, Babak Hassibi and Adam Wierman. [http://arxiv.org/abs/1104.0052 "Peer effects and stability in matching markets."] /Proceedings of Symposium on Algorithmic Game Theory/, 2011.
+
+
