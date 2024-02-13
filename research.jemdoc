@@ -58,9 +58,9 @@ Learning.'' Preprint.
 
 - Siddhartha Banerjee, Sean R. Sinclair, Milind Tambe, Lily Xu, Christina Lee Yu. [https://arxiv.org/abs/2210.00025 ``Artificial Replay: A Meta-Algorithm for Harnessing Historical Data in Bandits.''] Preprint. 
 
-- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2110.15843 ``Adaptive Discretization for Online Reinforcement Learning.''] /Operations Research/, 2022.
-
 - Tyler Sam, Yudong Chen, and Christina Lee Yu. [https://arxiv.org/abs/2206.03569 ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2023. Also presented at /ACM SIGMETRICS/ 2023. Received Best Student Paper Award. [https://youtu.be/kciRVEf-uQg SNAPP seminar video.]
+
+- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2110.15843 ``Adaptive Discretization for Online Reinforcement Learning.''] /Operations Research/, 2022.
 
 - *Christopher Archer, Siddhartha Banerjee, Mayleen Cortez, Carrie Rucker, Sean R. Sinclair, Max Solberg, Qiaomin Xie, and Christina Lee Yu. [https://ngast.github.io/rlnq/pdfs/RLNQ_2021_ORsuite.pdf ``ORSuite: Benchmarking Suite for Sequential Operations Models.''] /Reinforcement Learning Networks and Queues SIGMETRICS workshop/, 2021.
 
@@ -74,7 +74,7 @@ Learning.'' Preprint.
 
 - Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2105.05308 ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.''] /Operations Research/, 2022.
 
-- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.'' /ACM SIGMETRICS/, 2022.
+- Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://dl.acm.org/doi/abs/10.1145/3547353.3526951 ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.''] /ACM SIGMETRICS/, 2022.
 
 - Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://aiforgood2020.github.io/papers/AI4SG_paper_37.pdf ``Sequential Fair Allocation of Limited Resources under Stochastic Demands.''] /Harvard CRCS AI for Social Good/ and /Mechanism Design for Social Good/, 2020.
 
