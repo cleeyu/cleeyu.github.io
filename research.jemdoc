@@ -11,24 +11,27 @@ If any of these peak your interests, I would love to connect!
 
 == Selected Recent Papers
 
+- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. ``The SMART Approach to Instance-Optimal Online
+Learning.'' Preprint.
+
+- Xumei Xi, Christina Lee Yu, and Yudong Chen. [https://ieeexplore.ieee.org/abstract/document/10206880 ``Entry-Specific Bounds for Low-Rank Matrix
+Completion under Highly Non-Uniform Sampling.''] / International Symposium on Information Theory/, 2023.
+
+- Su Jia, Nathan Kallus, Christina Lee Yu. [https://arxiv.org/abs/2312.15574 ``Clustered Switchback Experiments: Near-Optimal Rates Under Spatiotemporal Interference.''] Preprint.
+
 - Siddhartha Banerjee, Sean R. Sinclair, Milind Tambe, Lily Xu, Christina Lee Yu. [https://arxiv.org/abs/2210.00025 ``Artificial Replay: A Meta-Algorithm for Harnessing Historical Data in Bandits.''] Preprint. 
 
-- Tyler Sam, Yudong Chen, and Christina Lee Yu. [https://arxiv.org/abs/2206.03569 ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] Preprint. [https://youtu.be/kciRVEf-uQg SNAPP seminar video.]
+- Tyler Sam, Yudong Chen, and Christina Lee Yu. [https://arxiv.org/abs/2206.03569 ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2023. Also presented at /ACM SIGMETRICS/, 2023. Best Student Paper Award.
 
 - Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2105.05308 ``Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.''] /Operations Research/, 2022. 
 
-- Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2208.05553 ``Exploiting Neighborhood Interference with Low Order Interactions under Unit Randomized Designs.''] Preprint.
+- Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2208.05553 ``Exploiting Neighborhood Interference with Low Order Interactions under Unit Randomized Designs.''] /Journal of Causal Inference/, 2023.
 
 - Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2205.14552 ``Staggered Rollout Designs Enable Causal Inference Under Interference Without Network Knowledge.''] /NEURIPS/, 2022.
 
 - Christina Lee Yu, Edo Airoldi, Christian Borgs, and Jennifer Chayes. [https://arxiv.org/abs/2205.12803 ``Estimating Total Treatment Effect in Randomized Experiments with Unknown Network Structure.''] /Proceedings of National Academy of Sciences/, 2022.
 
 - Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2110.15843 ``Adaptive Discretization for Online Reinforcement Learning.''] /Operations Research/, 2022.
-
-- Devavrat Shah and Christina Lee Yu. [https://arxiv.org/abs/1908.01241 ``Robust Max Entrywise Error Bounds for Sparse Tensor Estimation via Similarity Based Collaborative Filtering'']. To appear in /IEEE Transactions on Information Theory/, 2023.
-
-- Christina Lee Yu and Xumei Xi. [https://arxiv.org/abs/2007.00736 ``Tensor Estimation with Nearly Linear Samples Given Weak Side Information.''] /ACM SIGMETRICS/, 2022.
-
 
 == Publications and Preprints by Topic
 
@@ -36,7 +39,11 @@ If any of these peak your interests, I would love to connect!
 
 *Causal Inference*
 
-- Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2208.05553 ``Exploiting Neighborhood Interference with Low Order Interactions under Unit Randomized Designs.''] Preprint.
+- Su Jia, Nathan Kallus, Christina Lee Yu. [https://arxiv.org/abs/2312.15574 ``Clustered Switchback Experiments: Near-Optimal Rates Under Spatiotemporal Interference.''] Preprint.
+
+- Anish Agarwal, Sarah Cen, Devavrat Shah, and Christina Lee Yu. [https://arxiv.org/abs/2210.11355 ``Network Synthetic Interventions: A Framework for Panel Data with Network Interference.''] Preprint.
+
+- Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2208.05553 ``Exploiting Neighborhood Interference with Low Order Interactions under Unit Randomized Designs.''] /Journal of Causal Inference/, 2023.
 
 - Mayleen Cortez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2205.14552 ``Staggered Rollout Designs Enable Causal Inference Under Interference Without Network Knowledge.''] /NEURIPS/, 2022.
 
@@ -44,11 +51,16 @@ If any of these peak your interests, I would love to connect!
 
 * Reinforcement Learning and Bandits*
 
+- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. ``The SMART Approach to Instance-Optimal Online
+Learning.'' Preprint.
+
+- Xumei Xi, Christina Lee Yu, Yudong Chen. [https://arxiv.org/abs/2305.15621 ``Matrix Estimation for Offline Evaluation in Reinforcement Learning with Low-Rank Structure.''] Preprint.
+
 - Siddhartha Banerjee, Sean R. Sinclair, Milind Tambe, Lily Xu, Christina Lee Yu. [https://arxiv.org/abs/2210.00025 ``Artificial Replay: A Meta-Algorithm for Harnessing Historical Data in Bandits.''] Preprint. 
 
 - Sean R. Sinclair, Siddhartha Banerjee, and Christina Lee Yu. [https://arxiv.org/abs/2110.15843 ``Adaptive Discretization for Online Reinforcement Learning.''] /Operations Research/, 2022.
 
-- Tyler Sam, Yudong Chen, and Christina Lee Yu. [https://arxiv.org/abs/2206.03569 ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] Preprint.
+- Tyler Sam, Yudong Chen, and Christina Lee Yu. [https://arxiv.org/abs/2206.03569 ``Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.''] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2023. Also presented at /ACM SIGMETRICS/ 2023. Received Best Student Paper Award. [https://youtu.be/kciRVEf-uQg SNAPP seminar video.]
 
 - *Christopher Archer, Siddhartha Banerjee, Mayleen Cortez, Carrie Rucker, Sean R. Sinclair, Max Solberg, Qiaomin Xie, and Christina Lee Yu. [https://ngast.github.io/rlnq/pdfs/RLNQ_2021_ORsuite.pdf ``ORSuite: Benchmarking Suite for Sequential Operations Models.''] /Reinforcement Learning Networks and Queues SIGMETRICS workshop/, 2021.
 
@@ -68,9 +80,12 @@ If any of these peak your interests, I would love to connect!
 
 *High Dimensional Statistics*
 
-- Devavrat Shah and Christina Lee Yu. [https://arxiv.org/abs/1908.01241 ``Robust Max Entrywise Error Bounds for Sparse Tensor Estimation via Similarity Based Collaborative Filtering'']. To appear in /IEEE Transactions on Information Theory/, 2023.
+- Xumei Xi, Christina Lee Yu, and Yudong Chen. [https://ieeexplore.ieee.org/abstract/document/10206880 ``Entry-Specific Bounds for Low-Rank Matrix
+Completion under Highly Non-Uniform Sampling.''] / International Symposium on Information Theory/, 2023.
 
-- Christina Lee Yu and Xumei Xi. [https://arxiv.org/abs/2007.00736 ``Tensor Estimation with Nearly Linear Samples Given Weak Side Information.''] /ACM SIGMETRICS/, 2022.
+- Devavrat Shah and Christina Lee Yu. [https://arxiv.org/abs/1908.01241 ``Robust Max Entrywise Error Bounds for Sparse Tensor Estimation via Similarity Based Collaborative Filtering'']. /IEEE Transactions on Information Theory/, 2023.
+
+- Christina Lee Yu and Xumei Xi. [https://arxiv.org/abs/2007.00736 ``Tensor Estimation with Nearly Linear Samples Given Weak Side Information.''] /Proceedings of the ACM on Measurement and Analysis of Computing Systems/, 2022. Also presented at /ACM SIGMETRICS/, 2022.
 
 - Christina Lee Yu. [http://arxiv.org/abs/2110.13969 ``Nonparametric Matric Estimation with One-Sided Covariates.''] /International Symposium of Information Theory/, 2022.
 
@@ -94,8 +109,10 @@ If any of these peak your interests, I would love to connect!
 
 *Miscellaneous*
 
+- Chunyin (Alex) Siu, Gennady Samorodnitsky, Christina Lee Yu, and Rongyi He. [https://arxiv.org/abs/2305.11259 ``The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes.''] Preprint.
+
 - Chunyin (Alex) Siu, Gennady Samorodnitsky, Christina Lee Yu, and Andrey Yao. [https://arxiv.org/abs/2204.07821 ``Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration.''] Preprint.
 
-- Elizabeth Bodine-Baron, Christina Lee, Anthony Chong, Babak Hassibi and Adam Wierman. [http://arxiv.org/abs/1104.0052 "Peer effects and stability in matching markets."] /Proceedings of Symposium on Algorithmic Game Theory/, 2011.
+- Elizabeth Bodine-Baron, Christina Lee, Anthony Chong, Babak Hassibi, and Adam Wierman. [http://arxiv.org/abs/1104.0052 "Peer effects and stability in matching markets."] /Proceedings of Symposium on Algorithmic Game Theory/, 2011.
 
 
