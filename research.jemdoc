@@ -11,8 +11,12 @@ If any of these peak your interests, I would love to connect!
 
 == Selected Recent Papers
 
-- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. ``The SMART Approach to Instance-Optimal Online
-Learning.'' Preprint.
+- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [Unifying_DID_TWFE_Network_Flows.pdf ``Unifying DiD Estimators and TWFE Regression via Network Flows for Arbitrary Treatment Patterns and Heterogeneous Effects.''] Preprint. 
+
+- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [https://arxiv.org/abs/2409.03980 ``Entry-Specific Matrix Estimation under Arbitrary Sampling Patterns through the Lens of Network Flows.''] Preprint. 
+
+- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. [https://arxiv.org/abs/2402.17720 ``The SMART Approach to Instance-Optimal Online
+Learning.''] / Conference on Learning Theory/, 2024.
 
 - Xumei Xi, Christina Lee Yu, and Yudong Chen. [https://ieeexplore.ieee.org/abstract/document/10206880 ``Entry-Specific Bounds for Low-Rank Matrix
 Completion under Highly Non-Uniform Sampling.''] / International Symposium on Information Theory/, 2023.
@@ -39,6 +43,14 @@ Completion under Highly Non-Uniform Sampling.''] / International Symposium on In
 
 *Causal Inference*
 
+- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [Unifying_DID_TWFE_Network_Flows.pdf ``Unifying DiD Estimators and TWFE Regression via Network Flows for Arbitrary Treatment Patterns and Heterogeneous Effects.''] Preprint. 
+
+- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [https://arxiv.org/abs/2409.03980 ``Entry-Specific Matrix Estimation under Arbitrary Sampling Patterns through the Lens of Network Flows.''] Preprint. 
+
+- *Mayleen Cortez-Rodriguez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2405.05119 ``Combining Rollout Designs and Clustering for Causal Inference under Low-order Interference.''] Preprint.
+
+- *Matthew Eichhorn, Samir Khan, Johan Ugander, and Christina Lee Yu. [https://arxiv.org/abs/2405.07979 ``Low-order outcomes and clustered designs: combining design and analysis for causal inference under interference.''] Preprint.
+
 - Su Jia, Nathan Kallus, Christina Lee Yu. [https://arxiv.org/abs/2312.15574 ``Clustered Switchback Experiments: Near-Optimal Rates Under Spatiotemporal Interference.''] Preprint.
 
 - Anish Agarwal, Sarah Cen, Devavrat Shah, and Christina Lee Yu. [https://arxiv.org/abs/2210.11355 ``Network Synthetic Interventions: A Framework for Panel Data with Network Interference.''] Preprint.
@@ -51,8 +63,10 @@ Completion under Highly Non-Uniform Sampling.''] / International Symposium on In
 
 * Reinforcement Learning and Bandits*
 
-- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. ``The SMART Approach to Instance-Optimal Online
-Learning.'' Preprint.
+- Tyler Sam, Yudong Chen, and Christina Yu. ``The Limits of Transfer Reinforcement Learning with Latent Low-rank Structure.'' {\em Advances in Neural Information Processing Systems}, 2024.
+
+- Siddhartha Banerjee, Alankrita Bhatt, and Christina Lee Yu. [https://arxiv.org/abs/2402.17720 ``The SMART Approach to Instance-Optimal Online
+Learning.''] / Conference on Learning Theory/, 2024.
 
 - Xumei Xi, Christina Lee Yu, Yudong Chen. [https://arxiv.org/abs/2305.15621 ``Matrix Estimation for Offline Evaluation in Reinforcement Learning with Low-Rank Structure.''] Preprint.
 
