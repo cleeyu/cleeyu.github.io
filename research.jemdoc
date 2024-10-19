@@ -2,10 +2,10 @@
 = Research
 
 My research interests include algorithm design and analysis, high dimensional statistics, inference over networks, sequential decision making under uncertainty, and online learning. In particular, many of my ongoing research projects are motivated by the following collection of research questions.
-- Reinforcement learning algorithms still lag behind carefully designed heuristics for real-world systems where we do not have access to infinite data. How can we design reinforcement learning algorithms that efficiently exploit known structure that arise in real-world systems? What are even the appropriate types of structure that are common to real-world systems yet lead to efficient and practical algorithms?
-- Matrix and tensor estimation algorithms have been widely used as part of the data preprocessing pipeline for handling high dimensional noisy and partially observed datasets. However all existing theoretical guarantees require strict conditions on the data generating process which are violated when the data is collected adaptively, which could introduce complex dependences and intentional non-uniformity to the sampling process. Can we develop optimal theory and algorithms for utilizing low rank models in sequential decision making scenarios? 
-- The use of machine learning to design optimal policies for societal systems is in reality multi-objective, as we need to be conscientious of the computational resources consumed and ethical considerations of bias and fairness, in addition to the standard metrics of performance. Can we develop a fundamental theory for understanding optimal multi-objective tradeoffs in sequential decision making? Do there exist efficient algorithms that can aid a human decision maker to achieve any desired tradeoff along the Pareto frontier?
+- Matrix and tensor estimation algorithms have been widely used as part of the data preprocessing pipeline for handling high dimensional noisy and partially observed datasets. However all existing theoretical guarantees require strict conditions on the data generating process which are violated when the data is collected adaptively, which could introduce complex dependences and intentional non-uniformity to the sampling process. Can we develop entry-specific guarantees under arbitrary observation patterns? Can we develop optimal theory and algorithms for utilizing low rank models in sequential decision making scenarios? 
 - The majority of causal inference tools are built upon a naive assumption that applying a treatment to an individual does not affect others' outcomes. However, this is clearly violated in scenarios where the treatment as well as the outcome are mediated by a network, e.g. public health campaigns, social media patforms, and epidemic modeling. Can we develop new theory and techniques for causal inference that strike a balance between efficient algorithms and flexible models?
+- Reinforcement learning algorithms still lag behind carefully designed heuristics for real-world systems where we do not have access to infinite data. How can we design reinforcement learning algorithms that efficiently exploit known structure that arise in real-world systems? What are even the appropriate types of structure that are common to real-world systems yet lead to efficient and practical algorithms?
+- The use of machine learning to design optimal policies for societal systems is in reality multi-objective, as we need to be conscientious of the computational resources consumed and ethical considerations of bias and fairness, in addition to the standard metrics of performance. Can we develop a fundamental theory for understanding optimal multi-objective tradeoffs in sequential decision making? Do there exist efficient algorithms that can aid a human decision maker to achieve any desired tradeoff along the Pareto frontier?
 
 If any of these peak your interests, I would love to connect!
 
@@ -44,8 +44,6 @@ Completion under Highly Non-Uniform Sampling.''] / International Symposium on In
 *Causal Inference*
 
 - *Yudong Chen, Xumei Xi, and Christina Lee Yu. [Unifying_DID_TWFE_Network_Flows.pdf ``Unifying DiD Estimators and TWFE Regression via Network Flows for Arbitrary Treatment Patterns and Heterogeneous Effects.''] Preprint. 
-
-- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [https://arxiv.org/abs/2409.03980 ``Entry-Specific Matrix Estimation under Arbitrary Sampling Patterns through the Lens of Network Flows.''] Preprint. 
 
 - *Mayleen Cortez-Rodriguez, Matthew Eichhorn, and Christina Lee Yu. [https://arxiv.org/abs/2405.05119 ``Combining Rollout Designs and Clustering for Causal Inference under Low-order Interference.''] Preprint.
 
@@ -93,6 +91,8 @@ Learning.''] / Conference on Learning Theory/, 2024.
 - Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee, and Christina Lee Yu. [https://aiforgood2020.github.io/papers/AI4SG_paper_37.pdf ``Sequential Fair Allocation of Limited Resources under Stochastic Demands.''] /Harvard CRCS AI for Social Good/ and /Mechanism Design for Social Good/, 2020.
 
 *High Dimensional Statistics*
+
+- *Yudong Chen, Xumei Xi, and Christina Lee Yu. [https://arxiv.org/abs/2409.03980 ``Entry-Specific Matrix Estimation under Arbitrary Sampling Patterns through the Lens of Network Flows.''] Preprint. 
 
 - Xumei Xi, Christina Lee Yu, and Yudong Chen. [https://ieeexplore.ieee.org/abstract/document/10206880 ``Entry-Specific Bounds for Low-Rank Matrix
 Completion under Highly Non-Uniform Sampling.''] / International Symposium on Information Theory/, 2023.
