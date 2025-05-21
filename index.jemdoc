@@ -11,15 +11,23 @@ Graduate field member in [http://www.orie.cornell.edu/orie/faculty-directory ORI
 Office: 226 Rhodes Hall \n
 Email: cleeyu (at) cornell (dot) edu \n
 [https://scholar.google.com/citations?user=GyzNZMcAAAAJ&hl=en Google Scholar] \n
-[2024_09_13_CV.pdf CV] 
+[2025_05_21_CYu_CV.pdf CV] 
 
 ~~~
 
-Christina Lee Yu is an Assistant Professor at Cornell University in the School of Operations Research and Information Engineering. Prior to Cornell, she was a postdoc at Microsoft Research New England. She received her PhD in 2017 and MS in 2013 in Electrical Engineering and Computer Science from Massachusetts Institute of Technology in the [http://lids.mit.edu Laboratory for Information and Decision Systems]. She received her BS in Computer Science from California Institute of Technology in 2011. She received honorable mention for the 2018 INFORMS Dantzig Dissertation Award. She is a recipient of the 2024 ACM SIGMETRICS Rising Stars Award, 2021 Intel Rising Stars Award, a JPMorgan Faculty Research Award, and a NSF CAREER Award. Her work is supported by grants from the National Science Foundation and the Air Force Office of Scientific Research. Her research interests include algorithm design and analysis, high dimensional statistics, inference over networks, sequential decision making under uncertainty, online learning, and network causal inference.
+Christina Lee Yu is an Assistant Professor at Cornell University in the School of Operations Research and Information Engineering. She is also an [https://www.amazon.science/author/christina-yu Amazon scholar]. Prior to Cornell, she was a postdoc at Microsoft Research New England. She received her PhD and MS in Electrical Engineering and Computer Science from Massachusetts Institute of Technology, and her BS in Computer Science from California Institute of Technology. She is a recipient of the NSF CAREER Award, ACM SIGMETRICS Rising Stars Award, Intel Rising Stars Award, JPMorgan Faculty Research Award, and honorable mention for the 2018 INFORMS Dantzig Dissertation Award. Her work is supported by grants from the National Science Foundation and the Air Force Office of Scientific Research. She is currently an associate editor for Stochastic Systems. Her research interests include algorithm design and analysis, high dimensional statistics, inference over networks, sequential decision making under uncertainty, online learning, and network causal inference.
 
 == News
 
+- *Apr 2025.* I joined as an Amazon Visiting Academic in Fulfillment Optimization.
+
+- *Jan 2025.* Our paper on the /Analysis of Two-Stage Rollout Designs with Clustering for Causal Inference under Network Interference/ was accepted to AISTATS 2025.
+
+- *Nov 2024.* Our paper on /Entry-Specific Matrix Estimation under Arbitrary Sampling Patterns through the Lens of Network Flows/ was accepted to Innovations in Theoretical Computer Science.
+
 - *Oct 2024.* Tyler Sam's paper on /The Limits of Transfer Reinforcement Learning with Latent Low-rank Structure/ was accepted to Neurips 2024.
+
+- *Aug 2024.* Xumei Xi graduated! She will join Pinterest as a data scientist.
 
 - *June 2024.* I am honored to receive the 2024 ACM SIGMETRICS Rising Stars Award.
 
@@ -35,7 +43,7 @@ Christina Lee Yu is an Assistant Professor at Cornell University in the School o
 
 - *May 2023.* Awarded a grant from Air Force Office of Scientific Research for project on /Efficiently Exploiting Structure for Causal Inference in the Presence of Network Interference/.
 
-- *April 2023.* /Entry-Specific Bounds for Low Rank Matrix Completion under Highly Non-Uniform Sampling/ was accepted to the 2023 Interational Symposium on Information Theory.
+- *April 2023.* /Entry-Specific Bounds for Low Rank Matrix Completion under Highly Non-Uniform Sampling/ was accepted to the 2023 International Symposium on Information Theory.
 
 - *April 2023.* /Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure/ was accepted to ACM SIGMETRICS 2023.
 
