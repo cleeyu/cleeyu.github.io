@@ -7,7 +7,7 @@ My research interests include algorithm design and analysis, high dimensional st
 - Reinforcement learning algorithms still lag behind carefully designed heuristics for real-world systems where we do not have access to infinite data. How can we design reinforcement learning algorithms that efficiently exploit known structure that arise in real-world systems? What are even the appropriate types of structure that are common to real-world systems yet lead to efficient and practical algorithms?
 - The use of machine learning to design optimal policies for societal systems is in reality multi-objective, as we need to be conscientious of the computational resources consumed and ethical considerations of bias and fairness, in addition to the standard metrics of performance. Can we develop a fundamental theory for understanding optimal multi-objective tradeoffs in sequential decision making? Do there exist efficient algorithms that can aid a human decision maker to achieve any desired tradeoff along the Pareto frontier?
 
-If any of these peak your interests, I would love to connect!
+If any of these pique your interests, I would love to connect!
 
 == Selected Recent Papers
 
